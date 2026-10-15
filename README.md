@@ -1,1 +1,1 @@
-# friendly-hub
+ probably best script ever
